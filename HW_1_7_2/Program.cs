@@ -3,3 +3,6 @@
 //Організуйте виведення результату операції конвертування валюти на екран.
   
 Console.WriteLine("Hello world");
+
+Console.WriteLine("Hello world");
+Console.WriteLine("Hello world");
