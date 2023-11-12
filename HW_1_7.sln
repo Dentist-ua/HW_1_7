@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW_1_7_2", "HW_1_7_2\HW_1_7
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW_1_7_3", "HW_1_7_3\HW_1_7_3.csproj", "{36FEB5AA-39D9-4924-AFB9-BE411FEBD47E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW_1_7_4", "HW_1_7_4\HW_1_7_4.csproj", "{1DB32DAC-AB56-4B3F-A911-ACBEFC0532DF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{36FEB5AA-39D9-4924-AFB9-BE411FEBD47E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36FEB5AA-39D9-4924-AFB9-BE411FEBD47E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36FEB5AA-39D9-4924-AFB9-BE411FEBD47E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DB32DAC-AB56-4B3F-A911-ACBEFC0532DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DB32DAC-AB56-4B3F-A911-ACBEFC0532DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DB32DAC-AB56-4B3F-A911-ACBEFC0532DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DB32DAC-AB56-4B3F-A911-ACBEFC0532DF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
