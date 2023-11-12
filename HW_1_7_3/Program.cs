@@ -56,7 +56,7 @@ internal class HW_1_7_3
     }
     
     
-    public static void Main(string[] args)
+    static void Main(string[] args)
     {
         Console.WriteLine("Enter number ");
         var input1 = Console.ReadLine();
