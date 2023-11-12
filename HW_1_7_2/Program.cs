@@ -14,9 +14,9 @@ class HW_1_7_2
         var input2 = Console.ReadLine();
         double.TryParse(input2, out double rate);
     
-        double ConvertAmount = ConvertCurrency(money, rate);
+        double convertAmount = ConvertCurrency(money, rate);
     
-        Console.WriteLine($"Conversion result {ConvertAmount}");
+        Console.WriteLine($"Conversion result {convertAmount}");
         Console.ReadLine();
     }
     static double ConvertCurrency(double money, double rate)
